@@ -7,6 +7,8 @@ public class day1 {
         System.out.println("Im Trang");
         System.out.println(3 * 5);
         System.out.println(3 + 7);
+        System.out.println(8 / 2);
+
 
         // 입력 받고 출력
         Scanner scanner = new Scanner(System.in);
